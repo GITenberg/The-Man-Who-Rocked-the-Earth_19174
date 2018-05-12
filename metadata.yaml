@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1756
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Cheney_Train
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19174#The-Man-Who-Rocked-the-Earth
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-09-04'
 gutenberg_type: Text
